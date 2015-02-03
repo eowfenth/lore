@@ -83,6 +83,21 @@ move too much if you understand me. There are moments in life that you feel like
 prey, a defenseless and delicious prey. Somehow I understand why the old Wolves 
 
 transfered Its lands to him. He is definitely a wolf. One of the Great.
+Despite of Red Lands mostly be around mountains and desert, you somehow feel that
+
+sensation of being watched, you can smells in that mix of scents flowers, plants, wood. 
+
+Under the moon, you know their presence. You don't see them, but for sure they see 
+
+you. You can hear them, but the most important they can hear you. 
+
+To the north-east, 
+
+To the south- east, 
+
+To the south-west,
+
+To the south,
 ```
 
 
