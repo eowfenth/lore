@@ -35,16 +35,16 @@ says They are everywhere, They still are in these lands.
 
 
 Crowd in the Tables
-```
-  < Speaking in incomprehensive language >
+
+  < Some guys speaking in incomprehensive language >
   
   *the Minotaur says:*
-  Gushra! Mokra horr therek!
+  `Gushra! Mokra horr therek!`
   
   *the Orc says:*
-  Horr bremat shrak Thresh!
+  `Horr bremat shrak Thresh!`
+
+  *The Cyclops watched both with a suspicious almost unnoticeable then cryed a sound like a bark with words:*
+  `MISHTA THOOOR OODREK!!`
   
-
-```
-
-*The Cyclops watched both with a suspicious almost unnoticeable then cryed a sound like a bark with words*
+  *The group let a high pitch laugh and started to drinking cheering the Cyclops commentary.*
