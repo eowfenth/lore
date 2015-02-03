@@ -107,10 +107,20 @@ Nally is a medium height man about 1,80 or 1,82cm.
 Greetings Line:
 >`Humpf.`
 
-Greetings Line when *'New Lands, New Friends Quest - Mission 7'* is completed:
->`Hello, [Player Name].`
+Greetings Line when _'New Lands, New Friends Quest - Mission 7'_ is completed:
+>`Hello, [Player's Name].`
 
->`[Player Name]`
+>`[Player's Name].`
+
+
+
+Farewell Line:
+>`Humpf.`
+
+Greetings Line when _' New Lands, New Friends Quest - Mission 7'_ is completed:
+>`Farewell.`
+
+
 
 
 
