@@ -29,6 +29,7 @@ there is only one ruler: Nally.
 ```
 
 
+###### Location and Inhabitants
 
 ```
 The Wolfcry is located in the Red Lands. These lands once was home of the oldest kins 
@@ -37,7 +38,7 @@ and clans of wolves and dogs. You choose it: the known genre Canis itself, High 
 
 Templar Dogs and etc. The whereabout of most of them is unknown, some Shamans 
 
-says They are everywhere, They still are in these lands.
+says ** They are everywhere, They still are in these lands. **
 ```
 
 >
