@@ -3,7 +3,6 @@
 ###### The Wolfcry
 
 ```
-< Speaking in incomprehensive language > 
 
 Nally's Wolfcry Tavern is one of accorded neutral grounds - these fields aren't point of 
 
@@ -101,6 +100,25 @@ says ** They are everywhere, They still are in these lands. **
 >
 >
 >
+###### Nally's Profile and Talklines
+
+Nally is a medium height man about 1,80 or 1,82cm. 
+
+Greetings Line:
+>`Humpf.`
+
+Greetings Line when *'New Lands, New Friends Quest - Mission 7'* is completed:
+>`Hello, [Player Name].`
+>`[Player Name]`
+
+
+
+
+
+
+
+
+
 ######Crowd in the Tables
 
   < Some guys speaking in incomprehensive language >
