@@ -126,7 +126,31 @@ Greetings Line when _' New Lands, New Friends Quest - Mission 7'_ is completed:
 >
 >
 
-######Crowd in the Tables
+###### Mission 3 - Suspicious Plot in the Tables
+
+  In a room of the Wolfcry, there is someone stealing or looking for help. Trouble? Just the start.
+  
+  < Some voice in a room on the left >
+  
+  *A strange woman sighs:*
+  >`Where is it!? Where is it!?`
+  >`Gosh, I need to find it. Where is it!?`
+  
+  #######Reeze's Talkline
+  
+  On *Hi*
+  >`AAAH-H! W-what!?`
+  
+  On *What are you doing?*
+  >`What I am doing!? I-I am the maid. `
+  
+  On *Liar! / I thought Nally was alone here.*
+  >'No! It is the truth! You know, too much work for him. He asked for help.`
+  
+  On *Lying again! / You are lying again, aren't you? Nally asked that? It doesn't seem like him.*
+  >`Well, y-you know...`
+  
+  On *No 
 
   < Some guys speaking in incomprehensive language >
   
