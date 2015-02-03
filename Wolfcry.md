@@ -133,24 +133,59 @@ Greetings Line when _' New Lands, New Friends Quest - Mission 7'_ is completed:
   < Some voice in a room on the left >
   
   *A strange woman sighs:*
+  
+####### Reeze's Talkline
+  
   >`Where is it!? Where is it!?`
   >`Gosh, I need to find it. Where is it!?`
-  
-  #######Reeze's Talkline
   
   On *Hi*
   >`AAAH-H! W-what!?`
   
-  On *What are you doing?*
-  >`What I am doing!? I-I am the maid. `
+  On *What / What are you doing?*
+  >`What? What I am doing!? I-I am the maid. Y-you scared me, Sir. `
   
-  On *Liar! / I thought Nally was alone here.*
-  >'No! It is the truth! You know, too much work for him. He asked for help.`
+  On *Scared*
+  >`Well, you know is quiet here and I like to work quietly, in silence. Is is not like I am a burglar or something'>`
   
-  On *Lying again! / You are lying again, aren't you? Nally asked that? It doesn't seem like him.*
-  >`Well, y-you know...`
+  On *Burglar*
+  >`I am not not a burglar. You can't be a burglar when you steal from burglars.`
   
-  On *No 
+  On *You can't*
+  >`N-No, no, no! I am doing nothing wrong, I doing it in a good will. I am not a maid but please, just forget you saw me. Please, I am not a liar.>`
+  
+  On *Liar*
+  >`No! It is the truth! I am not lying! You know, I am helping a friend. He asked for help, actually I am the only one that can help him.`
+  
+  On *Lying / Lying again!*
+  >`Well, y-you know... Please, help me, Sir. Just forget about it, I won't do any harm. My friend is innocent!`
+  
+  On *No / I won't help you*
+  >`Please, please, I really need your help. Pretty please!`
+  
+  On *Help*
+  >`Seriously? Oh my god! Yes, you are helping!`
+  
+  On *Yes*
+  >`Oh, yes! Okay, there are a group of thugs down there, they are holding my friend in captive because they accused him of stealing their jewel. It may be here somewhere, they rented this room. `
+  
+  On *Jewel*
+  >`Yes, they call it [Item], they said when they were sleeping he stole it, but he was playing with his dog at the time. I was there! He blamed him because he was the only one near of their camp.`
+
+  On *Friend in Captive*
+  >`He is my friend, one of the most coolest guys I've ever met. He would not ever steal something. He LIKE dogs!`
+  
+  On *[Item]*
+  >`There are a lot of burglars and assassins in these fields, Nally knows their spots. The wolves told him. You may ask him for its location, maybe he will help you. You know how Nally is.`
+  
+  On *talking *Hi* after she explained everything*
+  >`Did you find it? Say yes please!`
+  
+  On *Yes* -- Only if you works you have the [Item]
+  >`Great, I will ask you another favor. Can you trade it for my friend Alec? `
+  
+  On second *Yes*
+  >`Okay, they are heading to the Camp at the north-east. Their leader is known as Kruzak, please go there and bring my friend back, please!`
 
   < Some guys speaking in incomprehensive language >
   
