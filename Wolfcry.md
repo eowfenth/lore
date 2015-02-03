@@ -38,11 +38,11 @@ Crowd in the Tables
 ```
   < Speaking in incomprehensive language >
   
-  *the Minotaur says:
+  *the Minotaur says:*
   Gushra! Mokra horr therek!
   
-  *the Orc says:
-  Horr bremat shrak
+  *the Orc says:*
+  Horr bremat shrak Thresh!
   
 
 ```
