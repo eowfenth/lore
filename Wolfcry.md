@@ -109,6 +109,7 @@ Greetings Line:
 
 Greetings Line when *'New Lands, New Friends Quest - Mission 7'* is completed:
 >`Hello, [Player Name].`
+
 >`[Player Name]`
 
 
