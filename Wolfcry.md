@@ -1,3 +1,5 @@
+*This is a writing under licence CC BY-NC 4.0.*  
+
 < Speaking in incomprehensive language >
 
 ###### The Wolfcry
