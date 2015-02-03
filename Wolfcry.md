@@ -104,7 +104,7 @@ says ** They are everywhere, They still are in these lands. **
 >
 ###### Nally's Profile and Talklines
 
-Nally is a medium height man about 1,80 or 1,82cm. 
+Nally is a medium height man about 1,80 or 1,82cm, with brown eyes that looks like a darkered honey. He is a man in a good shape even with his gray hair and old pair of hands. He seems steady but tired, a fact of surviving enough time to live throught the worst times and luck to see some of the best. His movements are accurate, and probably he is stronger than the most of the men of the same age. Occur to me after long travels to the Wolfcry that he is a man of fews words.
 
 Greetings Line:
 >`Humpf.`
@@ -114,8 +114,6 @@ Greetings Line when _'New Lands, New Friends Quest - Mission 7'_ is completed:
 
 >`[Player's Name].`
 
-
-
 Farewell Line:
 >`Humpf.`
 
@@ -123,14 +121,10 @@ Greetings Line when _' New Lands, New Friends Quest - Mission 7'_ is completed:
 >`Farewell.`
 
 
-
-
-
-
-
-
-
-
+>
+>
+>
+>
 
 ######Crowd in the Tables
 
