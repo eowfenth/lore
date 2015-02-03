@@ -132,7 +132,7 @@ Greetings Line when _'New Lands, New Friends Quest - Mission 7'_ is completed:
 Farewell Line:
 >`Humpf.`
 
-Greetings Line when _' New Lands, New Friends Quest - Mission 7'_ is completed:
+Farewell Line when _' New Lands, New Friends Quest - Mission 7'_ is completed:
 >`Farewell.`
 
 
