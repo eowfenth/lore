@@ -83,7 +83,7 @@ On any other line when *Reputation Status = 0*:
   
   < Some voice in a room on the left >
   
-  ####### Reeze's Talkline
+####### Reeze's Talkline
   
   *A strange woman sighs:*
   
