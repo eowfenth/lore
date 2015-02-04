@@ -25,7 +25,7 @@ Once I spoke alone with Nally. It-it was some of those moments that I tried to n
 
 Despite of Red Lands mostly be around mountains and desert, you somehow feel that sensation of being watched, you can smells in that mix of scents flowers, plants, wood. Under the moon, you know their presence. You don't see them, but for sure they see you. You can hear them, but the most important they can hear you. 
 
-To the north-east, 
+To the north-east, there are some camps of outlaws, 
 
 To the south- east, 
 
@@ -64,6 +64,9 @@ On *Drinks*, *Drinks, please*
 
 On *Food*, *Food, please*
 >`Have a good meal.`
+
+On leaving without saying anything
+>`Humpf.`
 
 On any other line when *Reputation Status = 0*:
 >`Humpf. Are you order something or not!?`
