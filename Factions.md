@@ -1,3 +1,5 @@
+*This is a writing under licence CC BY-NC 4.0. http://creativecommons.org/licenses/by-nc/4.0/*
+
 ###### Reputations, Factions and Politics
 
 Most of time, reputation don't exist. Once key elements as factions, clans and politics are present and in conflict, Reputations have an important function in a world and may influence many other elements.
