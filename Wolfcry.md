@@ -1,7 +1,4 @@
-*This is a writing under licence CC BY-NC 4.0.* 
-///////////////////////////////////////////////////////////////////////////////////////////////////////
-This is a writing repository under licence CC BY-NC 4.0. http://creativecommons.org/licenses/by-nc/4.0/
-///////////////////////////////////////////////////////////////////////////////////////////////////////
+*This is a writing under licence CC BY-NC 4.0. http://creativecommons.org/licenses/by-nc/4.0/* 
 
 < Speaking in incomprehensive language >
 
