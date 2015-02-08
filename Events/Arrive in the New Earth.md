@@ -1,17 +1,16 @@
-# Time System in New Earth
-
-
+######Time System in New Earth
+```
 # 1 day = 3 hours
 # 1 week = 
 # 1 month =
 # 1 season =
+```
 
 
+ New Earth 
+ Colonies around the Multiverse [...] Portals, failed. 
 
-# New Earth 
-# Colonies around the Multiverse [...] Portals, failed. 
-#
-#
+
 
 
 
@@ -20,12 +19,12 @@
 ```
 [...] <send> Record.a; -ap
 [...] -- Autoplaying Record.a
-[...] Trial #37 of Contact
+[...] Attempt #37 of Contact
 [...] H-H-Hi, <noise> Hi... Gosh, is there anyone listening? 
 [...] TOWER, do you listen!?
 [...] Our destination has arrived with success. But, b-but we think we have not enough supplies for longer.
-[...] ...
-[...] If anyone is receiving this message, please, say something!
+[...] ... <silence>
+[...] If-if anyone is receiving this message, please, say something!
 [...] Please! PLEASE! <crying noise> p-please...
 [...] [Final of transmission]
 [...]
