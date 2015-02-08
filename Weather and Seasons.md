@@ -1,6 +1,4 @@
-///////////////////////////////////////////////////////////////////////////////////////////////////////
-This is a writing repository under licence CC BY-NC 4.0. http://creativecommons.org/licenses/by-nc/4.0/
-///////////////////////////////////////////////////////////////////////////////////////////////////////
+*This is a writing under licence CC BY-NC 4.0. http://creativecommons.org/licenses/by-nc/4.0/*
 #
 Different weather as well as seasons affect how the world works, how people react and what can be explored and done.
 
