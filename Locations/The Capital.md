@@ -1,3 +1,5 @@
+*This is a writing under licence CC BY-NC 4.0. http://creativecommons.org/licenses/by-nc/4.0/*
+
 Usually, the life in the Capital is harsh.
 The taxes -- the absence of calmness -- the constant htreat of violence -- the war -- and mainly the need of fire and food.
 By the description, It is lear it isn't easy to handle. But despite this fact, people stay confident -- stay together as long as their king gives them hope.
