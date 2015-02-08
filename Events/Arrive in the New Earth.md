@@ -1,8 +1,8 @@
 ######Time System in New Earth
 ```
 # 1 day = 3 hours
-# 1 week = 
-# 1 month =
+# 1 week = 21 hours
+# 1 month = 3 hours
 # 1 season =
 ```
 
@@ -30,16 +30,19 @@
 [...]
 [...]
 ```
+###### 
+```
+At first, the climate and its dunes, vastiness, they looked like endless empires of sand, imposing and unbeatable. The soil shown its heat although we could handle with it and costed more supplies than we expected.
+We were amazed, we had a long trip, our systems counted 13 years and after that, any place was the place, it was our first mistake. 
+After 178 dawns(Yes, we've counted it) in this world, we thought we were alone, and this was the second mistake.
+They have noticed us and we failed to notice them. Filares was taken and we enslaved.
+Surprisingly, they have an effective way to enslave being, they give you a choice: be their slave or die freely.
+I would be lying if I told you all of them were atrocious. They had an history about being slaved, they had an history about being conquerers.
+And some of us comprehend its consequencies in different ways.
+```
 
-# At first, the climate and its dunes, vastiness, they looked like endless empires of sand, imposing and unbeatable. The soil shown its heat although we could handle with it
-# it costed more supplies than we expected.
-# We were amazed, we had a long trip, our systems counted 13 years and after that, any place was the place, it was our first mistake. 
-# After 178 dawns(Yes, we've counted it) in this world, we thought we were alone, and this was the second mistake.
-# They have noticed us and we failed to notice them. Filares was taken and we enslaved.
-# Surprisingly, they have an effective way to enslave being, they give you a choice: be their slave or die freely.
-# I would be lying if I told you all of them were atrocious. They had an history about being slaved, they had an history about being conquerers.
-# And some of us comprehend its consequencies in different ways.
 
-
-# Kro'mar 
-#  
+###### Kro'mar 
+```
+Leaders
+```
