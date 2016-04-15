@@ -13,12 +13,14 @@ Welcome the Awakening and then concede.
 
 
 
-
 ###### the Coin of Khor
 
-```
+Once obtained:
 
 ```
 
+```
+On 'Look':
+>`T-this coin... I don't recognize its origin. It may worth something.`
 
 >`I don't have business with you.`
