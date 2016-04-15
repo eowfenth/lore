@@ -94,13 +94,13 @@ On any other line when *Reputation Status = 0*:
   >`AAAH-H! W-what!?`
   
   On *What / What are you doing?*
-  >`What? What I am doing!? I-I am the maid. Y-you scared me, Sir. `
+  >`What? What I am doing!? I-I am the maid. Y-you did scare me, Sir. `
   
   On *Scared*
   >`Well, you know is quiet here and I like to work quietly, in silence. Is is not like I am a burglar or something'>`
   
   On *Burglar*
-  >`I am not not a burglar. You can't be a burglar when you steal from burglars.`
+  >`I am not not a burglar. You can't be a burglar when you steal from burglars, am I wrong?.`
   
   On *You can't*
   >`N-No, no, no! I am doing nothing wrong, I doing it in a good will. I am not a maid but please, just forget you saw me. Please, I am not a liar.>`
