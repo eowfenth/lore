@@ -1,4 +1,5 @@
 *This is a writing under licence CC BY-NC 4.0. http://creativecommons.org/licenses/by-nc/4.0/*
+Version 0.0.1
 
 Usually, the life in the Capital is harsh.
 The taxes -- the absence of calmness -- the constant htreat of violence -- the war -- and mainly the need of fire and food.
