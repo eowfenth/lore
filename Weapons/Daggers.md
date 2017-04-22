@@ -1,3 +1,5 @@
+### Daggers
+
 | Look | Weapon Name | Attack | Defense | Acquisition | Mastery Cost |
 | ---- | ----------- | ------ | ------- | ----------- | ------------ |
 | | Blade of the Wanderer | 5 | 1 | | 250 |
