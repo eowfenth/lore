@@ -78,7 +78,7 @@ Should be the author or the Life itself bear the blame for this? None at all.
 
 Although I aspire to know why these things happened, to know excessively what they have produced.
 
-What interest me the most are the promising of desired yet not the unspoken words.
+What interest me the most are the promising of desired yet not unspoken words.
 
 [...] And then, the author chose the most audacious path to her story: gave her the due agency she demanded, to deny whatever she wanted and accept what she deserved.
 
