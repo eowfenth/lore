@@ -51,5 +51,5 @@ Someone whose mother showed as much dislike as she could.
 I disagree with this notion.
 Should be the author or the Life itself bear the blame for this? None at all, in my opinion.
 
-The author simply did not take it for granted and make her existense remarkable unique. Gave her (mark my words, I am sure this is final) the most beautiful smile I've seen.
+The author simply did not take it for granted and made her existence remarkable unique. Gave her (mark my words, I am sure this is final) the most beautiful smile I've seen.
 
