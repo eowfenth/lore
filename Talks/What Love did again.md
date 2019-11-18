@@ -1,7 +1,7 @@
-Revision: 3
+Revision: 4
 
 Upon entering the bar, I have noticed her sitting accompanied with two other women.
-Both of them just does not seem from here, curiously they was too much alike. 
+Both of them just do not seem from here, curiously they were too much alike. 
 Yet they don't seem human at all. I don't know what they were, but I was sure I wasn't sharing the room with other human.
 They doesn't seem to be under any veil nor glamour. They looked like booze pal of Oshun.
 
