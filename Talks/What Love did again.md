@@ -1,8 +1,8 @@
-Revision: 2
+Revision: 3
 
 Upon entering the bar, I have noticed her sitting accompanied with two other women.
 Both of them just does not seem from here, curiously they was too much alike. 
-Indeed, they were not human. I don't know what they were, but I was sure I wasn't sharing the room with other human.
+Yet they don't seem human at all. I don't know what they were, but I was sure I wasn't sharing the room with other human.
 They doesn't seem to be under any veil nor glamour. They looked like booze pal of Oshun.
 
 _- OH, ANTHONY! Whaat I can do for you tonight?_
@@ -24,7 +24,7 @@ Although I cannot talk for them, this may be enough for you.
 or should I be rude to my guests and go against their will?_
 
 Curiously enough, they don't seem to be from here. I mean here as here human, human here. They are not human at all.
-Just after I end this sentence, the woman in the right leave a small smurk while the woman in the left seems absent.
+Just after I end this sentence, the woman in the right leave a small smurk while the woman in the left still absent.
 In retrospect, I think I did not think about this throughtfully.
 
 I could be facing not one but three deities here. Three deities of love.
@@ -87,7 +87,7 @@ _- You mean Bauman? Hell, you gods are quite updated among human sociology._
 _- Yes, he answered by that name. Zygmunt Bauman._
 
 She said completely ignoring my sarcasm.
-(Oh, she was slavic). Not only I have to handle Oshun, now I have a short temper goddess here too. I have pretended I was just using my cellphone while searched what was the goddess of love of slavic folks. Pam-pam-pam, and well, this godddess must be Lada, and indeed she represents the slavics. Okay, Oshun and Lada. Who is the third one?
+(Oh, she was slavic). Not only I have to handle Oshun, now I have a short temper goddess here too. I have pretended I was just using my cellphone while searched who was the goddess of love of slavic folks. Pam-pam-pam, and well, this godddess must be Lada, and indeed she represents the slavics. Okay, Oshun and Lada. Who is the third one?
 
 _- I see, do you are knowledgeable in liquid modernism too?_
 
