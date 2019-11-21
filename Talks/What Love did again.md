@@ -110,11 +110,21 @@ _- It seems so._
 
 Oh, God, I love her.
 
-_- Okay, what I can do then? Who is the love god in charge of this new kind of love?_
+"Okay, what I can do then? Who is the love god in charge of the new age?" I asked in hurry.
 
-_- Dunno. I have principles. I may be a love goddess but I don't like new neighbors._
+"Dunno. I have principles. I may be a love goddess but I don't like new neighbors." Oshun answered waving her hands.
 
-Oshun said.
+Oh, God, I love her too. Don't get me wrong, she a goddess and was dangerous as any psychopath on the loose, but usually I could keep a normal conversation with her without major issues, that was a bonus for me. Have you ever tried to talk with a god? I highly advice you to not even try if you value sanity.
 
-Oh, God, I love her too.
+Once my thought ended, she had a vicious grim in her face and I instantly squinted my eyes in desperation of this goddess reading my mind.
+
+"Oshun" I said slowly trying to hide any evidence of anger "I had your word I could have this information."
+
+"Oh, Toni, and you know well I keep my word." She said without any effort to hide her anger.
+
+I know I could not push the bar on her much longer. She could snap my life in an instant and probably just make me to die alone. I wasn't anxious for any of these possibilities, so I kept my chances down.
+
+"I know your virtues, so this is why I am asking for you. Not for any other deity." I confronted her. Okay, I lied, I couldn't keep in this dead end any longer.
+
+"Oh, please, you are here because you probably can't have what you looking for anywhere else." Guilty. Bitch.
 
