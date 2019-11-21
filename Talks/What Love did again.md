@@ -1,4 +1,4 @@
-Revision: 4
+Revision: 6
 
 Upon entering the bar, I have noticed her sitting accompanied with two other women.
 Both of them just do not seem from here, curiously they were too much alike. 
@@ -114,7 +114,7 @@ Oh, God, I love her.
 
 "Dunno. I have principles. I may be a love goddess but I don't like new neighbors." Oshun answered waving her hands.
 
-Oh, God, I love her too. Don't get me wrong, she a goddess and was dangerous as any psychopath on the loose, but usually I could keep a normal conversation with her without major issues, that was a bonus for me. Have you ever tried to talk with a god? I highly advice you to not even try if you value sanity.
+Oh, God, I love her too. Don't get me wrong, she a goddess and was dangerous as any psychopath on the loose, but usually I could keep a normal conversation with her without major issues, that was a bonus for me. Have you ever tried to talk with a god? I highly advice you to not even try whether you value sanity.
 
 Once my thought ended, she had a vicious grim in her face and I instantly squinted my eyes in desperation of this goddess reading my mind.
 
